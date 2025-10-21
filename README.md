@@ -6,7 +6,7 @@ Program ini dibuat untuk membantu pengguna mengetahui kategori tekanan darah ber
 
 ## Tujuan
 
-* Mengimplementasikan konsep OOP dalam Java.
+* Mengimplementasikan konsep OOP
 * Menerapkan version control menggunakan Git dan GitHub.
 * Memberikan informasi kesehatan berdasarkan tekanan darah.
 
